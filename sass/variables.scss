@@ -1,0 +1,19 @@
+$grey:#f2f2f2;
+$wt: #fff;
+$fontPD: 'Playfair Display', serif;
+$fontR: 'Roboto', sans-serif;
+$fontOS: 'Open Sans',sans-serif;
+%allmedia {
+    @media (min-width: 576px) {
+        width: 540px;
+    }
+    @media (min-width: 768px) {
+        width: 720px;
+    }
+    @media (min-width: 992px) {
+        width: 940px; 
+    }
+    @media (min-width: 1200px) {
+        width: 1140px;
+    }
+}
