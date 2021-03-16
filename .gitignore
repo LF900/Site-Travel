@@ -1,5 +1,3 @@
-sass/style.css
-sass/style.css.map
-sass/variables.css
-sass/variables.css.map
+node_modules/
 .vscode/
+dist/
